@@ -89,7 +89,7 @@ The dataset contains:
 
 ## 🎥 Dashboard Demo Video
 
-[▶ Click Here to Watch Demo](images/dashboard%20demo.mp4)
+[▶ Click Here to Watch Demo](images/dashboard%20demo.gif)
 
 ---
 
