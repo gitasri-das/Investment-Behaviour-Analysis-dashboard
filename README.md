@@ -87,10 +87,10 @@ The dataset contains:
 
 ---
 
-![Demo](images/dashboard%20demo.mp4)
 ## 🎥 Dashboard Demo Video
 
 [▶ Click Here to Watch Demo](images/dashboard%20demo.mp4)
+
 ---
 
 ## 📁 Files Included
