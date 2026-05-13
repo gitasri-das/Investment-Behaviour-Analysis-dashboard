@@ -89,7 +89,7 @@ The dataset contains:
 
 👉 **Watch the demo video here:**  
 
-![Demo](images/Dashboard%20demo.mp4)
+![Demo](images/dashboard%20demo.mp4)
 
 ---
 
