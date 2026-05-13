@@ -87,10 +87,10 @@ The dataset contains:
 
 ---
 
-👉 **Watch the demo video here:**  
-
 ![Demo](images/dashboard%20demo.mp4)
+## 🎥 Dashboard Demo Video
 
+[▶ Click Here to Watch Demo](images/dashboard%20demo.mp4)
 ---
 
 ## 📁 Files Included
@@ -117,4 +117,4 @@ This project improved my skills in:
 ## 📬 Connect With Me
 - LinkedIn: *(www.linkedin.com/in/gitasri-das)*
 
-- 
+
